@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Nabishs
+- 👀 I’m interested in System security
+- 🌱 I’m currently learning degree in CS
+- 📫 How to reach me??
