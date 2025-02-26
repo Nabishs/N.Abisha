@@ -1,4 +1,0 @@
-- 👋 Hi, I’m N.Abisha
-- 👀 I’m interested in System security
-- 🌱 I’m currently learning degree in MCA
-- 📫 How to reach me?? nabinabi2702@gmail.com
